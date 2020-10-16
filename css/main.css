@@ -306,7 +306,7 @@ a.back-to-top{
     left:0;
     right:0;
     background:#444;
-    z-index: 999;
+    z-index: 9999999;
     transition: all 0.5s ease-in-out;
     box-shadow: 0 1px 3px 2px rgba(0,0,0,0.5);
 }
